@@ -1,5 +1,9 @@
 package org.writer.model;
 
+/**
+ * Перечисление месяцев, используемое в поле monthOfBirth.
+ */
+
 public enum Months {
     JANUARY,
     FEBRUARY,
